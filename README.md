@@ -1,4 +1,4 @@
--- SQL Retail Sales Analysis - P1
+** SQL Retail Sales Analysis ** 
 CREATE DATABASE sales_analysis;
 
 
